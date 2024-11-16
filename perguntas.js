@@ -27,3 +27,9 @@ criaCartao(
     'Como é a formação da função de 1ºgrau?',
     'f(x)= ax+b'
 )
+
+criaCartao(
+    'Biologia',
+    'Qual a finção das artérias?',
+    'Condução do sangue do coração para os tecidos do corpo'
+)
