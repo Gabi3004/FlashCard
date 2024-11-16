@@ -21,3 +21,9 @@ criaCartao(
     'O que causa a radioatividade?',
     'Ocorre devido a instabilidade de elementos químicos, resultando na emissão de energia por átomos.'
 )
+
+criaCartao(
+    'Matemática',
+    'Como é a formação da função de 1ºgrau?',
+    'f(x)= ax+b'
+)
