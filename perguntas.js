@@ -11,13 +11,13 @@ criaCartao(
 )
 
 criaCartao(
-    'Matemática',
-    'Qual o valor de qualquer número elevado a 0?',
-    'O resultado sempre será 1'
+    'Biologia',
+    'O que é material genético?',
+    'São todas as informações que determinam as características físicas e fisiológicas de uma pessoa'
 )
 
 criaCartao(
     'Química',
-    'O que é um átomo?',
-    'São as partículas constituintes da matéria'
+    'O que causa a radioatividade?',
+    'Ocorre devido a instabilidade de elementos químicos, resultando na emissão de energia por átomos.'
 )
