@@ -33,3 +33,21 @@ criaCartao(
     'Qual a finção das artérias?',
     'Condução do sangue do coração para os tecidos do corpo'
 )
+
+criaCartao( 
+    'Botânica',
+    'As plamtas são divididas didaticamente em quais grupos?',
+    'Briófitas, Pteridófitas,Gimnospermas e Angiospermas'
+)
+
+criaCartao( 
+    'Geografia',
+    'O que é taxa de natalidade?',
+    'Representa o numero de nascidos vivos'
+)
+
+criaCartao(
+    'Geografia',
+    'O que é taxa de mortalidade?',
+    'Indica o número de óbitos de um determinado local'
+)
