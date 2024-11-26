@@ -30,7 +30,7 @@ criaCartao(
 
 criaCartao(
     'Biologia',
-    'Qual a finção das artérias?',
+    'Qual a função das artérias?',
     'Condução do sangue do coração para os tecidos do corpo'
 )
 
